@@ -1,7 +1,3 @@
-# Hi, I'm Esteban 👋
-
-I'm a backend developer 🐍.
-
 ## Technologies
 
 - **Languages**: Python, JavaScript
